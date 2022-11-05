@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba2</string>
+    <string name="inNom">NOMBRE</string>
+    <string name="inContra">CONTRASEÑA</string>
+    <string name="InUsu">INSERTAR</string>
+    <string name="menu_new">USUARIOS</string>
+</resources>
